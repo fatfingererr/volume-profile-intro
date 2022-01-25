@@ -5,4 +5,5 @@
 ## 預覽
 
 - **1. 機構交易人特性：成本思維**
-![ch1](/ch1.gif | width=500)
+
+<img src="https://github.com/fatfingererr/volume-profile-intro/blob/master/ch1.gif?raw=true" data-canonical-src="https://github.com/fatfingererr/volume-profile-intro/blob/master/ch1.gif?raw=true" width="75%"/>
